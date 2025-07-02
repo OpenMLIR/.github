@@ -1,5 +1,5 @@
 ## Pythonic is future!
 
-## All in Triton!
+## All in Python!
 
 ## MLIR YES!
