@@ -47,3 +47,5 @@
 [深度剖析 Triton编译器 MatMul优化（一）—— FMA](https://zhuanlan.zhihu.com/p/1922542705797465957)
 
 [Triton 社区首贡献：Bug 修复实录](https://zhuanlan.zhihu.com/p/1917136776885174369)
+
+[CUDA优化黑魔法：假装CUTLASS库](https://zhuanlan.zhihu.com/p/1926902370920568120)
