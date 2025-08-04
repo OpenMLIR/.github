@@ -24,17 +24,15 @@
 
 [Triton SPIR-V 后端开发：backend 初始化](https://zhuanlan.zhihu.com/p/1907141200789602446)
 
+## Python DSL Chinese summary
+
+[新兴 Python 算子开发：Triton、CuTeDSL、MOJO 🔥等概览](https://zhuanlan.zhihu.com/p/1919816304271028292)
+
 ## [mlir-tutorial](https://github.com/OpenMLIR/mlir-tutorial) Chinese documentation
 
 [从零开始教你写一个MLIR Pass](https://zhuanlan.zhihu.com/p/708819963)
 
 [MLIR学习可以参考的项目](https://zhuanlan.zhihu.com/p/1924384457349132481)
-
-## [LeetGPU](https://github.com/OpenMLIR/LeetGPU) Chinese documentation
-
-[LeetGPU入门教程 (CUDA guide最佳实践)](https://zhuanlan.zhihu.com/p/1899956367734867434)
-
-[LeetGPU的MOJO 🔥 实践](https://zhuanlan.zhihu.com/p/1908980999993402643)
 
 ## Triton Chinese blog
 
@@ -48,4 +46,12 @@
 
 [Triton 社区首贡献：Bug 修复实录](https://zhuanlan.zhihu.com/p/1917136776885174369)
 
-[CUDA优化黑魔法：假装CUTLASS库](https://zhuanlan.zhihu.com/p/1926902370920568120)
+[CUDA优化黑魔法：假装CUTLASS库(Triton PR7298)](https://zhuanlan.zhihu.com/p/1926902370920568120)
+
+[triton是否会冲击cuda生态？BobHuang的回答](https://www.zhihu.com/question/1919763006750975400/answer/1921121681612739823)
+
+## [LeetGPU](https://github.com/OpenMLIR/LeetGPU) Chinese documentation
+
+[LeetGPU入门教程 (CUDA guide最佳实践)](https://zhuanlan.zhihu.com/p/1899956367734867434)
+
+[LeetGPU的MOJO 🔥 实践](https://zhuanlan.zhihu.com/p/1908980999993402643)
