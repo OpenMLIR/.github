@@ -4,6 +4,10 @@
 
 ## MLIR YES!
 
+## [triton_llm](https://github.com/OpenMLIR/triton_llm) Chinese documentation
+
+[5090显卡+Triton，轻松玩转GPT-OSS-20B！](https://zhuanlan.zhihu.com/p/1936692690503865129)
+
 ## [triton_runner](https://github.com/OpenMLIR/triton_runner) Chinese documentation
 
 [Triton多层级runner v0.1.5：支持缓存机制，Benchmark更友好 (9c28df1)](https://zhuanlan.zhihu.com/p/1931261279072396108)
@@ -34,11 +38,9 @@
 
 [MLIR学习可以参考的项目](https://zhuanlan.zhihu.com/p/1924384457349132481)
 
-## Triton Chinese blog
+## [Triton](https://github.com/triton-lang/triton) Chinese blog
 
 [浅析 Triton 执行流程](https://zhuanlan.zhihu.com/p/712640431)
-
-[5090显卡+Triton，轻松玩转GPT-OSS-20B！](https://zhuanlan.zhihu.com/p/1936692690503865129)
 
 [深度剖析 Triton编译器 MatMul优化（三）—— TMA](https://zhuanlan.zhihu.com/p/1924011555437155686)
 
