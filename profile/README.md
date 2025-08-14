@@ -6,7 +6,7 @@
 
 ## [triton_llm](https://github.com/OpenMLIR/triton_llm) Chinese documentation
 
-[5090显卡+Triton，轻松玩转GPT-OSS-20B！](https://zhuanlan.zhihu.com/p/1936692690503865129)
+[5090显卡+Triton，轻松玩转GPT-OSS-20B！(6bb4b91)](https://zhuanlan.zhihu.com/p/1936692690503865129)
 
 ## [triton_runner](https://github.com/OpenMLIR/triton_runner) Chinese documentation
 
