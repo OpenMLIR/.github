@@ -4,11 +4,13 @@
 
 ## MLIR YES!
 
-## [TritonLLM](https://github.com/OpenMLIR/TritonLLM) Chinese documentation
+## 🚀 [TritonLLM](https://github.com/OpenMLIR/TritonLLM) Chinese documentation
+
+[Triton Kernel 优先：全新 LLM 推理方式(47e9dcb)](https://zhuanlan.zhihu.com/p/1939592984820691987)
 
 [5090显卡+Triton，轻松玩转GPT-OSS-20B！(6bb4b91)](https://zhuanlan.zhihu.com/p/1936692690503865129)
 
-## [triton-runner](https://github.com/OpenMLIR/triton-runner) Chinese documentation
+## 🔧 [triton-runner](https://github.com/OpenMLIR/triton-runner) Chinese documentation
 
 [Triton多层级runner v0.1.5：支持缓存机制，Benchmark更友好 (9c28df1)](https://zhuanlan.zhihu.com/p/1931261279072396108)
 
@@ -16,7 +18,7 @@
 
 [Triton黑魔法：cubin runner(539d549)](https://zhuanlan.zhihu.com/p/1925826891702576935)
 
-## [triton-ocl](https://github.com/OpenMLIR/triton-ocl) Chinese documentation
+## 💡 [triton-ocl](https://github.com/OpenMLIR/triton-ocl) Chinese documentation
 
 [Triton SPIR-V 后端开发：矩阵乘实现验证](https://zhuanlan.zhihu.com/p/1925309765489230184)
 
