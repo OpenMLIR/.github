@@ -20,15 +20,15 @@
 
 ## 💡 [triton-ocl](https://github.com/OpenMLIR/triton-ocl) Chinese documentation
 
-[Triton SPIR-V 后端开发：矩阵乘实现验证](https://zhuanlan.zhihu.com/p/1925309765489230184)
+[Triton SPIR-V 后端开发：矩阵乘实现验证(953bff6)](https://zhuanlan.zhihu.com/p/1925309765489230184)
 
-[Triton SPIR-V 后端开发：向量加实现验证](https://zhuanlan.zhihu.com/p/1914987075771561349)
+[Triton SPIR-V 后端开发：向量加实现验证(f66f77c)](https://zhuanlan.zhihu.com/p/1914987075771561349)
 
-[Triton SPIR-V 后端开发：PyBind绑定](https://zhuanlan.zhihu.com/p/1914770426808206615)
+[Triton SPIR-V 后端开发：PyBind绑定(457f0aa)](https://zhuanlan.zhihu.com/p/1914770426808206615)
 
-[Triton SPIR-V 后端开发：新增Pass](https://zhuanlan.zhihu.com/p/1914706253290120299)
+[Triton SPIR-V 后端开发：新增Pass(08b0e35)](https://zhuanlan.zhihu.com/p/1914706253290120299)
 
-[Triton SPIR-V 后端开发：backend 初始化](https://zhuanlan.zhihu.com/p/1907141200789602446)
+[Triton SPIR-V 后端开发：backend 初始化(02ff396)](https://zhuanlan.zhihu.com/p/1907141200789602446)
 
 ## 📝 Python DSL Chinese summary
 
