@@ -30,17 +30,17 @@
 
 [Triton SPIR-V 后端开发：backend 初始化](https://zhuanlan.zhihu.com/p/1907141200789602446)
 
-## Python DSL Chinese summary
+## 📝 Python DSL Chinese summary
 
 [新兴 Python 算子开发：Triton、CuTeDSL、MOJO 🔥等概览](https://zhuanlan.zhihu.com/p/1919816304271028292)
 
-## [mlir-tutorial](https://github.com/OpenMLIR/mlir-tutorial) Chinese documentation
+## 🎓 [mlir-tutorial](https://github.com/OpenMLIR/mlir-tutorial) Chinese documentation
 
 [从零开始教你写一个MLIR Pass](https://zhuanlan.zhihu.com/p/708819963)
 
 [MLIR学习可以参考的项目](https://zhuanlan.zhihu.com/p/1924384457349132481)
 
-## [Triton](https://github.com/triton-lang/triton) Chinese blog
+## 📖 [Triton](https://github.com/triton-lang/triton) Chinese blog
 
 [浅析 Triton 执行流程](https://zhuanlan.zhihu.com/p/712640431)
 
@@ -56,7 +56,7 @@
 
 [triton是否会冲击cuda生态？BobHuang的回答](https://www.zhihu.com/question/1919763006750975400/answer/1921121681612739823)
 
-## [LeetGPU](https://github.com/OpenMLIR/LeetGPU) Chinese documentation
+## 🧠 [LeetGPU](https://github.com/OpenMLIR/LeetGPU) Chinese documentation
 
 [LeetGPU入门教程 (CUDA guide最佳实践)](https://zhuanlan.zhihu.com/p/1899956367734867434)
 
