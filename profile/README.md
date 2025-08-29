@@ -30,15 +30,22 @@
 
 [Triton SPIR-V 后端开发：backend 初始化(02ff396)](https://zhuanlan.zhihu.com/p/1907141200789602446)
 
-## 📝 Python DSL Chinese summary
-
-[新兴 Python 算子开发：Triton、CuTeDSL、MOJO 🔥等概览](https://zhuanlan.zhihu.com/p/1919816304271028292)
 
 ## 🎓 [mlir-tutorial](https://github.com/OpenMLIR/mlir-tutorial) Chinese documentation
 
 [从零开始教你写一个MLIR Pass](https://zhuanlan.zhihu.com/p/708819963)
 
 [MLIR学习可以参考的项目](https://zhuanlan.zhihu.com/p/1924384457349132481)
+
+## 📝 Python DSL Chinese summary
+
+[新兴 Python 算子开发：Triton、CuTeDSL、MOJO 🔥等概览](https://zhuanlan.zhihu.com/p/1919816304271028292)
+
+## CuTeDSL MOJO 🔥
+
+[CuTeDSL(CUTLASS Python)的初步实践](https://zhuanlan.zhihu.com/p/1918927108006188667)
+
+[LeetGPU的MOJO 🔥 实践](https://zhuanlan.zhihu.com/p/1908980999993402643)
 
 ## 📖 [Triton](https://github.com/triton-lang/triton) Chinese blog
 
@@ -59,5 +66,3 @@
 ## 🧠 [LeetGPU](https://github.com/OpenMLIR/LeetGPU) Chinese documentation
 
 [LeetGPU入门教程 (CUDA guide最佳实践)](https://zhuanlan.zhihu.com/p/1899956367734867434)
-
-[LeetGPU的MOJO 🔥 实践](https://zhuanlan.zhihu.com/p/1908980999993402643)
