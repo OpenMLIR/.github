@@ -1,8 +1,6 @@
-## Pythonic is future!
+## Pythonic is future! All in Python! MLIR YES!
 
-## All in Python!
-
-## MLIR YES!
+### This page is accessible via 🔗<a href="https://mlir.top"><b>mlir.top</b></a>
 
 ## 🚀 [TritonLLM](https://github.com/OpenMLIR/TritonLLM) Chinese documentation
 
