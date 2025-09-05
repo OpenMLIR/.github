@@ -4,6 +4,8 @@
 
 ## 🚀 [TritonLLM](https://github.com/OpenMLIR/TritonLLM) Chinese documentation
 
+[TritonLLM v0.1.0: 基于 Triton 的大模型推理初步探索(eb16e6a)](https://zhuanlan.zhihu.com/p/1946682230614254751)
+
 [Triton Kernel 优先：全新 LLM 推理方式(47e9dcb)](https://zhuanlan.zhihu.com/p/1939592984820691987)
 
 [5090显卡+Triton，轻松玩转GPT-OSS-20B！(6bb4b91)](https://zhuanlan.zhihu.com/p/1936692690503865129)
