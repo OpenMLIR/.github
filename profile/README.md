@@ -18,7 +18,7 @@
 
 [Triton黑魔法：cubin runner(539d549)](https://zhuanlan.zhihu.com/p/1925826891702576935)
 
-### 📖 [OpenMLIR/triton-tutorial](https://github.com/OpenMLIR/triton-tutorial)
+### 📖 [triton-tutorial](https://github.com/OpenMLIR/triton-tutorial) in Chinese
 
 [从零开始教你Triton算子（一）—— 向量加](https://zhuanlan.zhihu.com/p/1945518475989713455)
 
@@ -45,17 +45,17 @@
 
 [MLIR学习可以参考的项目](https://zhuanlan.zhihu.com/p/1924384457349132481)
 
-## 📝 Python DSL Chinese summary
+## 📝 Python DSL summary in Chinese
 
 [新兴 Python 算子开发：Triton、CuTeDSL、MOJO 🔥等概览](https://zhuanlan.zhihu.com/p/1919816304271028292)
 
-## CuTeDSL MOJO 🔥
+## CuTeDSL MOJO 🔥 in Chinese
 
 [CuTeDSL(CUTLASS Python)的初步实践](https://zhuanlan.zhihu.com/p/1918927108006188667)
 
 [LeetGPU的MOJO 🔥 实践](https://zhuanlan.zhihu.com/p/1908980999993402643)
 
-## 📖 [Triton](https://github.com/triton-lang/triton) Chinese blog
+## 📖 [Triton](https://github.com/triton-lang/triton) blog in Chinese
 
 [浅析 Triton 执行流程](https://zhuanlan.zhihu.com/p/712640431)
 
