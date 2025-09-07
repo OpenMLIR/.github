@@ -18,6 +18,14 @@
 
 [Triton黑魔法：cubin runner(539d549)](https://zhuanlan.zhihu.com/p/1925826891702576935)
 
+### 📖 [OpenMLIR/triton-tutorial](https://github.com/OpenMLIR/triton-tutorial)
+
+[从零开始教你Triton算子（一）—— 向量加](https://zhuanlan.zhihu.com/p/1945518475989713455)
+
+[从零开始教你Triton算子（二）—— 练习题解](https://zhuanlan.zhihu.com/p/1946822570201580464)
+
+[从零开始教你Triton算子（三）—— 矩阵转置](https://zhuanlan.zhihu.com/p/1947731427543189117)
+
 ## 💡 [triton-ocl](https://github.com/OpenMLIR/triton-ocl) Chinese documentation
 
 [Triton SPIR-V 后端开发：矩阵乘实现验证(953bff6)](https://zhuanlan.zhihu.com/p/1925309765489230184)
