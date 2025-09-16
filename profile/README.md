@@ -12,6 +12,8 @@
 
 ## 🔧 [triton-runner](https://github.com/OpenMLIR/triton-runner) Chinese documentation
 
+[Triton Runner v0.2.0 : 支持调试，多版本支持(4b85c7a)](https://zhuanlan.zhihu.com/p/1951383935830454570)
+
 [Triton多层级runner v0.1.5：支持缓存机制，Benchmark更友好 (9c28df1)](https://zhuanlan.zhihu.com/p/1931261279072396108)
 
 [Triton黑魔法：多层级 runner 工具(795ff3d)](https://zhuanlan.zhihu.com/p/1927486699484717368)
